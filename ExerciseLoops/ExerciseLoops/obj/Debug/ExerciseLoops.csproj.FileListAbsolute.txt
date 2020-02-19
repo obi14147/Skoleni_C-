@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\ExerciseLoops\ExerciseLoops\bin\Debug\ExerciseLoops.exe.config
+C:\Users\Student\Documents\2124\ExerciseLoops\ExerciseLoops\bin\Debug\ExerciseLoops.exe
+C:\Users\Student\Documents\2124\ExerciseLoops\ExerciseLoops\bin\Debug\ExerciseLoops.pdb
+C:\Users\Student\Documents\2124\ExerciseLoops\ExerciseLoops\obj\Debug\ExerciseLoops.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\ExerciseLoops\ExerciseLoops\obj\Debug\ExerciseLoops.exe
+C:\Users\Student\Documents\2124\ExerciseLoops\ExerciseLoops\obj\Debug\ExerciseLoops.pdb

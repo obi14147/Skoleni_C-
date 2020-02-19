@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\04.03_Exceptions\04.03_Exceptions\bin\Debug\04.03_Exceptions.exe.config
+C:\Users\Student\Documents\2124\04.03_Exceptions\04.03_Exceptions\bin\Debug\04.03_Exceptions.exe
+C:\Users\Student\Documents\2124\04.03_Exceptions\04.03_Exceptions\bin\Debug\04.03_Exceptions.pdb
+C:\Users\Student\Documents\2124\04.03_Exceptions\04.03_Exceptions\obj\Debug\04.03_Exceptions.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\04.03_Exceptions\04.03_Exceptions\obj\Debug\04.03_Exceptions.exe
+C:\Users\Student\Documents\2124\04.03_Exceptions\04.03_Exceptions\obj\Debug\04.03_Exceptions.pdb

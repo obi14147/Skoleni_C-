@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\obj\Debug\04.02_Loops.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\bin\Debug\04.02_Loops.exe.config
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\bin\Debug\04.02_Loops.exe
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\bin\Debug\04.02_Loops.pdb
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\obj\Debug\04.02_Loops.exe
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\obj\Debug\04.02_Loops.pdb

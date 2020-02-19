@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\05.01_Methods\05.01_Methods\bin\Debug\05.01_Methods.exe.config
+C:\Users\Student\Documents\2124\05.01_Methods\05.01_Methods\bin\Debug\05.01_Methods.exe
+C:\Users\Student\Documents\2124\05.01_Methods\05.01_Methods\bin\Debug\05.01_Methods.pdb
+C:\Users\Student\Documents\2124\05.01_Methods\05.01_Methods\obj\Debug\05.01_Methods.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\05.01_Methods\05.01_Methods\obj\Debug\05.01_Methods.exe
+C:\Users\Student\Documents\2124\05.01_Methods\05.01_Methods\obj\Debug\05.01_Methods.pdb

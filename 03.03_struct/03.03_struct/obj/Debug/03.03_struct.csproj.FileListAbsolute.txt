@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\2124\03.03_struct\03.03_struct\bin\Debug\03.03_struct.exe.config
+C:\Users\Student\Documents\2124\03.03_struct\03.03_struct\bin\Debug\03.03_struct.exe
+C:\Users\Student\Documents\2124\03.03_struct\03.03_struct\bin\Debug\03.03_struct.pdb
+C:\Users\Student\Documents\2124\03.03_struct\03.03_struct\obj\Debug\03.03_struct.exe
+C:\Users\Student\Documents\2124\03.03_struct\03.03_struct\obj\Debug\03.03_struct.pdb

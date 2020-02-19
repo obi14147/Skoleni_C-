@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\03.04_conversion\03.04_conversion\bin\Debug\03.04_conversion.exe.config
+C:\Users\Student\Documents\2124\03.04_conversion\03.04_conversion\bin\Debug\03.04_conversion.exe
+C:\Users\Student\Documents\2124\03.04_conversion\03.04_conversion\bin\Debug\03.04_conversion.pdb
+C:\Users\Student\Documents\2124\03.04_conversion\03.04_conversion\obj\Debug\03.04_conversion.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\03.04_conversion\03.04_conversion\obj\Debug\03.04_conversion.exe
+C:\Users\Student\Documents\2124\03.04_conversion\03.04_conversion\obj\Debug\03.04_conversion.pdb

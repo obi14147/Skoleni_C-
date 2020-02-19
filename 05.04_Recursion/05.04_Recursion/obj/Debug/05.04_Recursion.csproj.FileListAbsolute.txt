@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\2124\05.04_Recursion\05.04_Recursion\bin\Debug\05.04_Recursion.exe.config
+C:\Users\Student\Documents\2124\05.04_Recursion\05.04_Recursion\bin\Debug\05.04_Recursion.exe
+C:\Users\Student\Documents\2124\05.04_Recursion\05.04_Recursion\bin\Debug\05.04_Recursion.pdb
+C:\Users\Student\Documents\2124\05.04_Recursion\05.04_Recursion\obj\Debug\05.04_Recursion.exe
+C:\Users\Student\Documents\2124\05.04_Recursion\05.04_Recursion\obj\Debug\05.04_Recursion.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\bin\Debug\06.02_Collections.exe.config
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\bin\Debug\06.02_Collections.exe
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\bin\Debug\06.02_Collections.pdb
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\obj\Debug\06.02_Collections.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\obj\Debug\06.02_Collections.exe
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\obj\Debug\06.02_Collections.pdb

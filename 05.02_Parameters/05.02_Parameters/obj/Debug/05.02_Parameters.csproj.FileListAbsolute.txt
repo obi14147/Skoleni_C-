@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\05.02_Parameters\05.02_Parameters\bin\Debug\05.02_Parameters.exe.config
+C:\Users\Student\Documents\2124\05.02_Parameters\05.02_Parameters\bin\Debug\05.02_Parameters.exe
+C:\Users\Student\Documents\2124\05.02_Parameters\05.02_Parameters\bin\Debug\05.02_Parameters.pdb
+C:\Users\Student\Documents\2124\05.02_Parameters\05.02_Parameters\obj\Debug\05.02_Parameters.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\05.02_Parameters\05.02_Parameters\obj\Debug\05.02_Parameters.exe
+C:\Users\Student\Documents\2124\05.02_Parameters\05.02_Parameters\obj\Debug\05.02_Parameters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\03.02_Enumerator\03.02_Enumerator\bin\Debug\03.02_Enumerator.exe.config
+C:\Users\Student\Documents\2124\03.02_Enumerator\03.02_Enumerator\bin\Debug\03.02_Enumerator.exe
+C:\Users\Student\Documents\2124\03.02_Enumerator\03.02_Enumerator\bin\Debug\03.02_Enumerator.pdb
+C:\Users\Student\Documents\2124\03.02_Enumerator\03.02_Enumerator\obj\Debug\03.02_Enumerator.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\03.02_Enumerator\03.02_Enumerator\obj\Debug\03.02_Enumerator.exe
+C:\Users\Student\Documents\2124\03.02_Enumerator\03.02_Enumerator\obj\Debug\03.02_Enumerator.pdb

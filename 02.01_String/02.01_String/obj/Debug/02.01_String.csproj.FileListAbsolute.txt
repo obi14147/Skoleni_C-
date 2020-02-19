@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\bin\Debug\02.01_String.exe.config
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\bin\Debug\02.01_String.exe
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\bin\Debug\02.01_String.pdb
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\obj\Debug\02.01_String.exe
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\obj\Debug\02.01_String.pdb

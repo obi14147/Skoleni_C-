@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\02_HelloFromVS\02_HelloFromVS\bin\Debug\02_HelloFromVS.exe.config
+C:\Users\Student\Documents\2124\02_HelloFromVS\02_HelloFromVS\bin\Debug\02_HelloFromVS.exe
+C:\Users\Student\Documents\2124\02_HelloFromVS\02_HelloFromVS\bin\Debug\02_HelloFromVS.pdb
+C:\Users\Student\Documents\2124\02_HelloFromVS\02_HelloFromVS\obj\Debug\02_HelloFromVS.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\02_HelloFromVS\02_HelloFromVS\obj\Debug\02_HelloFromVS.exe
+C:\Users\Student\Documents\2124\02_HelloFromVS\02_HelloFromVS\obj\Debug\02_HelloFromVS.pdb

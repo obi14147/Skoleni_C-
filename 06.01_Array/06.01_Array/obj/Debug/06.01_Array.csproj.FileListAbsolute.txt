@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\06.01_Array\06.01_Array\bin\Debug\06.01_Array.exe.config
+C:\Users\Student\Documents\2124\06.01_Array\06.01_Array\bin\Debug\06.01_Array.exe
+C:\Users\Student\Documents\2124\06.01_Array\06.01_Array\bin\Debug\06.01_Array.pdb
+C:\Users\Student\Documents\2124\06.01_Array\06.01_Array\obj\Debug\06.01_Array.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\06.01_Array\06.01_Array\obj\Debug\06.01_Array.exe
+C:\Users\Student\Documents\2124\06.01_Array\06.01_Array\obj\Debug\06.01_Array.pdb

@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\2124\ExcerciseGetMax\ExcerciseGetMax\bin\Debug\ExcerciseGetMax.exe.config
+C:\Users\Student\Documents\2124\ExcerciseGetMax\ExcerciseGetMax\bin\Debug\ExcerciseGetMax.exe
+C:\Users\Student\Documents\2124\ExcerciseGetMax\ExcerciseGetMax\bin\Debug\ExcerciseGetMax.pdb
+C:\Users\Student\Documents\2124\ExcerciseGetMax\ExcerciseGetMax\obj\Debug\ExcerciseGetMax.exe
+C:\Users\Student\Documents\2124\ExcerciseGetMax\ExcerciseGetMax\obj\Debug\ExcerciseGetMax.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\03.01_ValueTypes.exe.config
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\03.01_ValueTypes.exe
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\03.01_ValueTypes.pdb
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\03.01_ValueTypes.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\03.01_ValueTypes.exe
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\03.01_ValueTypes.pdb
