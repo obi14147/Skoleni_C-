@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\bin\Debug\06.03_Debugging.exe.config
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\bin\Debug\06.03_Debugging.exe
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\bin\Debug\06.03_Debugging.pdb
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\obj\Debug\06.03_Debugging.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\obj\Debug\06.03_Debugging.exe
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\obj\Debug\06.03_Debugging.pdb
