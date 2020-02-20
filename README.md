@@ -45,4 +45,5 @@
 Vytváření konstruktorů, které slouží k inicializaci objektů.
 ## 09.02_Finalizace
 Finalizace a uvolňování zdrojů.
-
+## 10.01_Inheritance
+Základní koncepty dědičnosti.
