@@ -47,3 +47,5 @@ Vytváření konstruktorů, které slouží k inicializaci objektů.
 Finalizace a uvolňování zdrojů.
 ## 10.01_Inheritance
 Základní koncepty dědičnosti.
+## 10.02_Overriding
+Použití virtuálních metod a overridingu.
