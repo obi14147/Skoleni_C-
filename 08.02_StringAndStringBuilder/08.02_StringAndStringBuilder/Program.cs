@@ -42,8 +42,6 @@ namespace _08._02_StringAndStringBuilder
             Console.WriteLine("Stop with SB");
             ssw.Stop();
             Console.WriteLine(ssw.ElapsedMilliseconds + "ms");
-
-
         }
     }
 }
