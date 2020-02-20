@@ -42,4 +42,7 @@
 ## 08.02_StringAndStringBuilder
 
 ## 09.01_Construcotrs
+Vytváření konstruktorů, které slouží k inicializaci objektů.
+## 09.02_Finalizace
+Finalizace a uvolňování zdrojů.
 
