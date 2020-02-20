@@ -50,5 +50,7 @@ Finalizace a uvolňování zdrojů.
 Základní koncepty dědičnosti.
 ## 10.02_Overriding
 Použití virtuálních metod a overridingu.
-##10.03_OverridingSystemObject
+## 10.03_OverridingSystemObject
 Přepisování metod datového typu System.Object (ToStrin, Equals...)
+## 10.04_CastingAndBoxing
+Přetypovávání referenčních typů a boxování hodnotových typů.
