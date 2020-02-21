@@ -1,4 +1,4 @@
-# Skoleni C#
+# Školení C#
 ## 01_HelloFromNotepad
 
 ## 02.01_String
