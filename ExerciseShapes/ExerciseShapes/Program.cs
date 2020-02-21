@@ -8,72 +8,70 @@ namespace ExerciseShapes
 {
     class Shape
     {
-        //public int a;
-        //public int b;
-        //public int c;
-
-        //public Shape(int a, int b)
-        //{
-        //    this.a = a;
-        //    this.b = b;
-        //}
-        //public Shape(int a, int b, int c)
-        //{
-        //    this.a = a;
-        //    this.b = b;
-        //    this.c = c;
-        //}
         public string name;
-
-        public int Povrch(int a, int b)
+        public virtual int Povrch()
         {
-            return a*b;
-        }
-
-        public int Povrch(int a, int b, int c)
-        {
-            return (2 * a * b) + (2 * a * c) + (2 * b * c);
+            return 0;
         }
     }
 
     class Obdelnik : Shape 
     {
-        //public Obdelnik(int a, int b) : base(a, b)
-        //{
-        //    this.Povrch(a, b);
-        //}
-
+        protected int a;
+        protected int b;
+        public Obdelnik(int a, int b)
+        {
+            this.a = a;
+            this.b = b;
+        }
+        public override int Povrch()
+        {
+            return this.a * this.b;
+        }
     }
 
     class Ctverec : Obdelnik
     {
-        //public Ctverec(int a, int b) : base(a, b)
-        //{
-        //    this.Povrch(a, b);
-        //}
+        public Ctverec(int a, int b) : base(a, b) { }
     }
 
-    class Kvadr : Obdelnik
+    class Kvadr : Shape
     {
-        //public Kvadr(int a, int b, int c) : base(a, b, c)
-        //{
-        //    this.Povrch(a, b, c);
-        //}
+        Obdelnik[] obdelniky = new Obdelnik[3];
+        public Kvadr(int a, int b, int c)
+        {
+            this.obdelniky[0] = new Obdelnik(a, b);
+            this.obdelniky[1] = new Obdelnik(a, c);
+            this.obdelniky[2] = new Obdelnik(b, c);
+        }
+        public override int Povrch()
+        {
+
+            return 2 * (this.obdelniky[0].Povrch() + this.obdelniky[1].Povrch() + this.obdelniky[2].Povrch());
+
+            //return (2 * a * b) + (2 * a * c) + (2 * b * c);
+        }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Obdelnik obdelnik = new Obdelnik();
-            Ctverec ctverec = new Ctverec();
-            Kvadr kvadr = new Kvadr();
+            Obdelnik obdelnik = new Obdelnik(10, 20);
+            Ctverec ctverec = new Ctverec(10, 10);
+            Kvadr kvadr = new Kvadr(10, 20, 30);
             obdelnik.name = "Obdelnik";
             ctverec.name = "Ctverec";
             kvadr.name = "Kvadr";
 
-            Console.WriteLine("{0} ma povrch: {1} mm2.", obdelnik.name, obdelnik.Povrch(10, 20));
-            Console.WriteLine("{0} ma povrch: {1} mm2.", ctverec.name, ctverec.Povrch(10, 10));
-            Console.WriteLine("{0} ma povrch: {1} mm2.", kvadr.name, kvadr.Povrch(10, 20, 30));
+            List<Shape> list = new List<Shape>();
+            list.Add(obdelnik);
+            list.Add(ctverec);
+            list.Add(kvadr);
+
+            foreach (Shape item in list)
+            {
+                Console.WriteLine("{0} ma povrch {1} mm2.", item.name, item.Povrch());
+            }
         }
     }
 }
