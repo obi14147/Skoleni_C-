@@ -62,3 +62,5 @@ Souvislost vytváření virtuální metody a zastinování. Zastinování je hor
 Použití abstraktních tříd.
 ## 10.08_Interface
 Použití interface.
+## 11.01_Events
+Jak se registrovat k událostem.
