@@ -64,3 +64,7 @@ Použití abstraktních tříd.
 Použití interface.
 ## 11.01_Events
 Jak se registrovat k událostem.
+## 12.01_Property
+Použití vlastností objektů.
+## 12.02_PropertiesAndIndexers
+Definice vlastnosti a indexeru.
