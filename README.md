@@ -54,5 +54,7 @@ Použití virtuálních metod a overridingu.
 Přepisování metod datového typu System.Object (ToStrin, Equals...)
 ## 10.04_CastingAndBoxing
 Přetypovávání referenčních typů a boxování hodnotových typů.
-##10.05_CastingAndVirtualMethods
+## 10.05_CastingAndVirtualMethods
 Souvislost přetypovávání a virtuální metody.
+## 10.06_Shadowing
+Souvislost vytváření virtuální metody a zastinování. Zastinovaání je horší.
