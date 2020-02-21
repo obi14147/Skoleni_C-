@@ -60,3 +60,5 @@ Souvislost přetypovávání a virtuální metody.
 Souvislost vytváření virtuální metody a zastinování. Zastinování je horší.
 ## 10.07_AbstractClass
 Použití abstraktních tříd.
+## 10.08_Interface
+Použití interface.
