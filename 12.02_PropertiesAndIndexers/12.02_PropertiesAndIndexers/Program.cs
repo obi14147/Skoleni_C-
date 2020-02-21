@@ -14,6 +14,7 @@ namespace _12._02_PropertiesAndIndexers
             "Mon",
             "Tue",
             "Wen",
+            "Thu"    ,
             "Fri",
             "Sat"
         };
